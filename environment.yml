@@ -1,0 +1,7 @@
+name: clip_raster_with_polygons
+channels:
+  - conda-forge
+dependencies:
+  - python==3.8.10
+  - python-dotenv==0.20.0
+  - gdal==3.3.2
