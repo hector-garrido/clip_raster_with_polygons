@@ -32,11 +32,11 @@ Adaptación del script mostrado por OpenSourceOptions en Youtube:
 https://youtu.be/K8eRbeBrHHk
 opensourceoptions.com
 
-El ejemplo empleado ocupa un archivo raster y un shapefile de los municipios del estado de Chiapas, Máxico https://map.ceieg.chiapas.gob.mx/geoweb/
+El ejemplo empleado ocupa un archivo raster y un shapefile de los municipios del estado de Chiapas, México https://map.ceieg.chiapas.gob.mx/geoweb/
 
 ## Instrucciones de uso
 
-1. Uibcar los insumos (archivo raster y carepta del archivo shp) dentro del repositorio.
+1. Ubicar los insumos (archivo raster y carepta del archivo shp) dentro del repositorio.
 2. Adaptar las variables de enotrno en el archivo env de acuerdo a los insumos.
 3. Ejecutar los siguientes comandos en la terminal (se requiere conda):
 ```
